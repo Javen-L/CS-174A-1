@@ -2,7 +2,7 @@
 My solutions for all assignments, of UCLA course Computer Science 174A taken in Fall 2019 with Prof. Law.
 
  Assignment No. | Score | Comments            |
-| ------------- | ----- | -------------       |
+| ------------- | --------- | -------------       |
 | 1 | N/A | This assignment doesn't count for a grade. |
 | 2 | 60 / 50 | All points + extra credit achieved. |
 | 3 | 65 / 50 | All points + extra credit achieved. |
